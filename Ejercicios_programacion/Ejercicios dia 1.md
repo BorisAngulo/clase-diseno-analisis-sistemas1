@@ -11,7 +11,7 @@
 
    ```code
    public void holaMundo(){
-	   System.Out.Println("Hola mundo");
+	   System.out.println("Hola mundo");
    }
    ```
 
@@ -19,7 +19,7 @@
 
 ``` code
 public void saludo(String nombre, int edad){
-	System.out.Println("Hola" + nombre + "tienes" + edad + "anios");
+	System.out.println("Hola" + nombre + "tienes" + edad + "anios");
 }
 ```
 
