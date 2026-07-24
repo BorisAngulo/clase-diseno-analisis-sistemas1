@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viabilidad del sistema"
+              "title": "README"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d6baac91e0f1f4e3",
@@ -202,12 +202,12 @@
   "lastOpenFiles": [
     "5. Viabilidad del sistema-Hardware y software/Hardware y Software.md",
     "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
+    "Estructura del informe.md",
+    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
     "Ejercicios_programacion/Ejercicios dia 1.md",
     "5. Viabilidad del sistema-Hardware y software",
-    "Estructura del informe.md",
     "Caso Actual.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.1.1. Encuestas.md",
-    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.1.2. Entrevista.md",
     "3. Problema y Diagnostico/Problema y Diagnostico.md",
     "2. Roles del analista de sistemas y ciclo de vida del software/Roles del analista de sistemas.md",
@@ -220,6 +220,6 @@
     "Ejercicios_programacion",
     "3. Problema y Diagnostico/Requerimientos.md",
     "3. Problema y Diagnostico",
-    "Welcome.md"
+    "README.md"
   ]
 }

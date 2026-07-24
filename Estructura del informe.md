@@ -46,17 +46,17 @@ _El corazón del análisis de sistemas. Si esta fase falla, todo el desarrollo p
     
     - Descripción clara del dolor de la organización: qué falla, a quiénes afecta de forma directa o indirecta, y qué consecuencias trae no intervenir.
         
-- **2.2. Técnicas de recopilación de información** _(Herramientas de levantamiento de requerimientos)_
+- **[[4.1. Metodos de recoleccion|2.2. Técnicas de recopilación de información]]** _(Herramientas de levantamiento de requerimientos)_
     
-    - _Entrevistas:_ Aplicadas a cargos estratégicos y directivos para conocer requerimientos de alto nivel y cuellos de botella.
+    - _[[4.1.2. Entrevista|Entrevistas:]]_ Aplicadas a cargos estratégicos y directivos para conocer requerimientos de alto nivel y cuellos de botella.
         
-    - _Encuestas:_ Dirigidas a la masa operativa o usuarios masivos para validar tendencias y opiniones de forma cuantitativa.
+    - _[[4.1.1. Encuestas|Encuestas]]:_ Dirigidas a la masa operativa o usuarios masivos para validar tendencias y opiniones de forma cuantitativa.
         
     - _Observación directa:_ Trabajo de campo in situ para ver cómo se realizan los procesos reales, contrastando lo que "dicen que hacen" con lo que "realmente hacen".
         
     - _Revisión documental:_ Análisis de formularios, planillas físicas, libros de registro o reportes actuales.
         
-- **2.3. Técnica del árbol de problemas**
+- **[[4.2. Arbol de problemas|2.3. Técnica del árbol de problemas]]**
     
     - _Raíces:_ Causas raíz del problema (ej. ausencia de bases de datos centralizadas, procesos no estandarizados).
         
@@ -64,7 +64,7 @@ _El corazón del análisis de sistemas. Si esta fase falla, todo el desarrollo p
         
     - _Ramas:_ Efectos negativos generados (ej. pérdida de información histórica, retrasos en la toma de decisiones gerenciales).
         
-- **2.4. Determinación de la viabilidad (Estudio de Factibilidad)**
+- **[[Viabilidad del sistema|2.4. Determinación de la viabilidad (Estudio de Factibilidad)]]**
     
     - _Viabilidad Técnica:_ Disponibilidad de infraestructura, herramientas de desarrollo y competencias del equipo.
         
@@ -72,7 +72,7 @@ _El corazón del análisis de sistemas. Si esta fase falla, todo el desarrollo p
         
     - _Viabilidad Operativa:_ Aceptación del cambio tecnológico por parte de los usuarios finales (gestión del cambio).
         
-- **2.5. Determinación de necesidades de hardware y software**
+- **[[Hardware y Software|2.5. Determinación de necesidades de hardware y software]]**
     
     - Especificación técnica de los requerimientos mínimos y óptimos para servidores, estaciones de trabajo, sistemas operativos, motores de bases de datos y entornos de desarrollo.
         

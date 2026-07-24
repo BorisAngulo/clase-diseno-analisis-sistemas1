@@ -1,7 +1,11 @@
-- Viabilidad Tecnica
-- Viabilidad Operativa
-- Viabilidad Temporal
-- Viabilidad Economica
+- **Viabilidad Tecnica**: ¿Se tienen los equipos?
+ Analiza si existen las computadoras, red y tecnología necesaria.
+- **Viabilidad Operativa**: ¿Lo pueden usar?
+ Garantiza que el personal pueda manejar el sistema sin dificultad.
+- **Viabilidad Temporal**: ¿Alcanza el tiempo?
+ Verifica si el desarrollo culminará en el plazo disponible.
+- **Viabilidad Economica**: ¿Se tienen los fondos?
+ Evalúa recursos financieros para compras, licencias y mantenimiento.
 
 ### Viabilidad Tecnica
 | Requisito                  | Estado                                                                                                           |

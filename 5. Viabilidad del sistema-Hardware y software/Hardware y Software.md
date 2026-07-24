@@ -1,4 +1,6 @@
 ### Hardware
+Componentes tangibles y dispositivos físicos requeridos para procesar y almacenar información.
+Ejemplos: Computadoras, impresoras, servidores, redes, teclado, mouse y almacenamiento.
 - 3 computadoras de escritorio para administracion con perifericos
 - 3 impresoras
 - Celular por docente
@@ -8,8 +10,9 @@
 - Lector de ojos, de huella digital
 - Monitor para el escaner
 ### Software
+Programas, aplicaciones y reglas informáticas que permiten ejecutar tareas específicas.
+Ejemplos: Sistema operativo, navegadores web, motores de bases de datos y aplicaciones.
 #### Requisitos minimos
-
 - Navegador web (chrome v, firefox, Brave 1.92.143 (64-bit), Opera)
 - Sistema Operativo Windows 7 o mas, 32 bits - Linux, MacOS, Android, IOS
 - Hoja de calculo tipo excel
