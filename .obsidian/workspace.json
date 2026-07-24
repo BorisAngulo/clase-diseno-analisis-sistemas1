@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5. Viabilidad del sistema-Hardware y software/Requerimientos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Requerimientos"
             }
           }
         ],
@@ -201,8 +201,11 @@
   "active": "3899f23c9b3adb8f",
   "lastOpenFiles": [
     "5. Viabilidad del sistema-Hardware y software/Hardware y Software.md",
+    "5. Viabilidad del sistema-Hardware y software/Requerimientos.md",
     "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
     "Estructura del informe.md",
+    "4. Metodos de recoleccion de informacion y arbol de problemas/4.2. Arbol de problemas.md",
+    "README.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
     "Ejercicios_programacion/Ejercicios dia 1.md",
     "5. Viabilidad del sistema-Hardware y software",
@@ -215,11 +218,9 @@
     "1. Sistemas y tipos de sistemas/Sistemas.md",
     "1. Sistemas y tipos de sistemas",
     "2. Roles del analista de sistemas y ciclo de vida del software",
-    "4. Metodos de recoleccion de informacion y arbol de problemas/4.2. Arbol de problemas.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas",
     "Ejercicios_programacion",
     "3. Problema y Diagnostico/Requerimientos.md",
-    "3. Problema y Diagnostico",
-    "README.md"
+    "3. Problema y Diagnostico"
   ]
 }

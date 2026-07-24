@@ -18,3 +18,13 @@ Ejemplos: Sistema operativo, navegadores web, motores de bases de datos y aplica
 - Hoja de calculo tipo excel
 - LEctor de PDF's
 - Sistema de Scanner scanin
+### Requisitos para el desarrollo
+- Para el backend Laravel V8
+- Para el frontend React V19, diseno tailwind
+- Google docs para documentacion
+- Figma para desarrollo de interfaces
+- LucidChar para diseno de base de datos
+- MySQL para construccion de base de datos
+- Git para control de versiones
+- Github para trabajo de repositorios
+- Docker para contenedores
