@@ -2,7 +2,7 @@
 2. Dado a un metodo el nombre y edad el programa debe devolver `Hola <nombre> tienes <anios> anios`
 3. Realiza una funcion suma de 2 numeros dados por el usuario
 4. Dado un numero, devolver si el numero es par o impar
-5. Dado `base, altura` de un triangulo, sacar el area del rectangulo
+5. Dado `base, altura` de un rectangulo, sacar el area del rectangulo
 
 
 ## Solucion

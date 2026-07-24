@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "57c42f01da8f9690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Caso Actual.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caso Actual"
-            }
-          },
-          {
             "id": "3899f23c9b3adb8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
+                "file": "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1. Metodos de recoleccion"
+              "title": "Viabilidad del sistema"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,20 +200,23 @@
   },
   "active": "3899f23c9b3adb8f",
   "lastOpenFiles": [
-    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1.2. Entrevista.md",
-    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1.1. Encuestas.md",
+    "5. Viabilidad del sistema-Hardware y software/Hardware y Software.md",
+    "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
+    "Ejercicios_programacion/Ejercicios dia 1.md",
+    "5. Viabilidad del sistema-Hardware y software",
     "Estructura del informe.md",
-    "3. Problema y Diagnostico/Problema y Diagnostico.md",
-    "2. Roles del analista de sistemas y ciclo de vida del software/Ciclo de vida del software.md",
-    "2. Roles del analista de sistemas y ciclo de vida del software/Roles del analista de sistemas.md",
-    "1. Sistemas y tipos de sistemas/Sistemas.md",
     "Caso Actual.md",
+    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1.1. Encuestas.md",
+    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
+    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1.2. Entrevista.md",
+    "3. Problema y Diagnostico/Problema y Diagnostico.md",
+    "2. Roles del analista de sistemas y ciclo de vida del software/Roles del analista de sistemas.md",
+    "2. Roles del analista de sistemas y ciclo de vida del software/Ciclo de vida del software.md",
+    "1. Sistemas y tipos de sistemas/Sistemas.md",
     "1. Sistemas y tipos de sistemas",
     "2. Roles del analista de sistemas y ciclo de vida del software",
-    "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.2. Arbol de problemas.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas",
-    "Ejercicios_programacion/Ejercicios dia 1.md",
     "Ejercicios_programacion",
     "3. Problema y Diagnostico/Requerimientos.md",
     "3. Problema y Diagnostico",
