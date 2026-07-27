@@ -48,9 +48,9 @@ _El corazón del análisis de sistemas. Si esta fase falla, todo el desarrollo p
         
 - **[[4.1. Metodos de recoleccion|2.2. Técnicas de recopilación de información]]** _(Herramientas de levantamiento de requerimientos)_
     
-    - _[[4.1.2. Entrevista|Entrevistas:]]_ Aplicadas a cargos estratégicos y directivos para conocer requerimientos de alto nivel y cuellos de botella.
+    - _[[4.1.2. Entrevista|Entrevistas:]]_ Aplicadas a cargos estratégicos y directivos para conocer requerimientos de alto nivel y cuellos de botella. en el informe debe reflejarse el analisis de las respuestas de los entrevistados
         
-    - _[[4.1.1. Encuestas|Encuestas]]:_ Dirigidas a la masa operativa o usuarios masivos para validar tendencias y opiniones de forma cuantitativa.
+    - _[[4.1.1. Encuestas|Encuestas]]:_ Dirigidas a la masa operativa o usuarios masivos para validar tendencias y opiniones de forma cuantitativa. en el informe debe reflejarse el analisis de cada pregunta hecha 
         
     - _Observación directa:_ Trabajo de campo in situ para ver cómo se realizan los procesos reales, contrastando lo que "dicen que hacen" con lo que "realmente hacen".
         

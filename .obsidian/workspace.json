@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Viabilidad del sistema-Hardware y software/Requerimientos.md",
+                "file": "6. Analisis Cuantitativo y Cualitativo/Cuantitativo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requerimientos"
+              "title": "Cuantitativo"
             }
           }
         ],
@@ -200,10 +200,14 @@
   },
   "active": "3899f23c9b3adb8f",
   "lastOpenFiles": [
-    "5. Viabilidad del sistema-Hardware y software/Hardware y Software.md",
-    "5. Viabilidad del sistema-Hardware y software/Requerimientos.md",
-    "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
+    "6. Analisis Cuantitativo y Cualitativo/Cualitativo.md",
     "Estructura del informe.md",
+    "6. Analisis Cuantitativo y Cualitativo/Cuantitativo.md",
+    "5. Viabilidad del sistema-Hardware y software/Requerimientos.md",
+    "6. Analisis Cuantitativo y Cualitativo",
+    "Untitled.md",
+    "5. Viabilidad del sistema-Hardware y software/Hardware y Software.md",
+    "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.2. Arbol de problemas.md",
     "README.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.1. Metodos de recoleccion.md",
