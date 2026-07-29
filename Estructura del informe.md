@@ -25,7 +25,7 @@ _Este capítulo demuestra que la aproximación al problema sigue un rigor cient�
         
     - _Método Científico:_ Seguir el ciclo de observación de la realidad, planteamiento de hipótesis de solución, experimentación (prototipado) y validación.
         
-- **1.3. Tipos de investigación**
+- **1.3. Tipos de investigación** (Alcance Investigativo)
     
     - _Explorativa:_ Acercamiento inicial cuando la problemática organizacional no ha sido documentada previamente.
         
