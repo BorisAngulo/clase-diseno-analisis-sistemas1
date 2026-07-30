@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios_programacion/Ejercicios dia 2.md",
+                "file": "Ejercicios_programacion/Ejercicios dia 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios dia 2"
+              "title": "Ejercicios dia 3"
             }
           }
         ],
@@ -200,10 +200,16 @@
   },
   "active": "3899f23c9b3adb8f",
   "lastOpenFiles": [
-    "8. Tipos de investigacion/Alcance investigativo.md",
-    "Estructura del informe.md",
-    "7. Metodos de investigacion/Aplicacion en informe.md",
+    "6. Enfoques de investigacion/Cualitativo.md",
+    "6. Enfoques de investigacion/Cuantitativo.md",
     "7. Metodos de investigacion/Metodos.md",
+    "7. Metodos de investigacion/Aplicacion en informe.md",
+    "8. Tipos de investigacion/Alcance investigativo.md",
+    "8. Tipos de investigacion/Tipos de investigacion.md",
+    "9. Planeacion y Control de actividades/Planeacion y Control de Actividades.md",
+    "Estructura del informe.md",
+    "9. Planeacion y Control de actividades",
+    "Ejercicios_programacion/Ejercicios dia 3.md",
     "Ejercicios_programacion/Ejercicios dia 2.md",
     "Ejercicios_programacion/Ejercicios dia 1.md",
     "Caso Actual.md",
@@ -211,9 +217,7 @@
     "5. Viabilidad del sistema-Hardware y software/Requerimientos.md",
     "5. Viabilidad del sistema-Hardware y software/Viabilidad del sistema.md",
     "7. Metodos de investigacion",
-    "6. Analisis Cuantitativo y Cualitativo/Cuantitativo.md",
-    "6. Analisis Cuantitativo y Cualitativo/Cualitativo.md",
-    "6. Analisis Cuantitativo y Cualitativo",
+    "6. Enfoques de investigacion",
     "Untitled.md",
     "5. Viabilidad del sistema-Hardware y software/Hardware y Software.md",
     "4. Metodos de recoleccion de informacion y arbol de problemas/4.2. Arbol de problemas.md",
